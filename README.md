@@ -1,4 +1,3 @@
-juandelgado.github.com
-======================
+# Hello
 
-Repo serving the content of juandelgado.es
+This is the repo serving the content of [juandelgado.es](http://juandelgado.es).
