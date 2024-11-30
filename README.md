@@ -1,3 +1,9 @@
 # Hello
 
-This is the repo serving the content of [juandelgado.es](http://juandelgado.es).
+This is the repo for the content at [juandelgado.es](https://juandelgado.es).
+
+Note to self:
+
+```bash
+python3 -m http.server
+```
